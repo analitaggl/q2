@@ -4,7 +4,6 @@ apt install dbus-x11 -y
 apt install sudo -y  
 apt install bash -y  
 apt install net-tools -y
-apt install screen 
 apt install novnc -y  
 apt install x11vnc -y  
 apt install xvfb -y 
