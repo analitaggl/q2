@@ -5,7 +5,8 @@ apt install sudo -y
 apt install bash -y  
 apt install net-tools -y 
 apt install novnc -y  
-apt install x11vnc -y  
+apt install x11vnc -y
+apt install screen
 apt install xvfb -y 
 apt install supervisor -y  
 apt install xfce4 -y 
