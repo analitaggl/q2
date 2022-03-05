@@ -6,7 +6,6 @@ apt install bash -y
 apt install net-tools -y 
 apt install novnc -y  
 apt install x11vnc -y
-apt install scree
 apt install xvfb -y 
 apt install supervisor -y  
 apt install xfce4 -y 
@@ -26,3 +25,4 @@ apt install unzip -y
 apt install falkon -y 
 apt-get autoclean -y 
 apt-get autoremove
+apt install screen
